@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mediacardfluence2/static/css/main.a0bfacbc.css",
-    "main.js": "/mediacardfluence2/static/js/main.51249b12.js",
+    "main.js": "/mediacardfluence2/static/js/main.7f753ac5.js",
     "static/js/453.cf676dcc.chunk.js": "/mediacardfluence2/static/js/453.cf676dcc.chunk.js",
     "index.html": "/mediacardfluence2/index.html",
     "main.a0bfacbc.css.map": "/mediacardfluence2/static/css/main.a0bfacbc.css.map",
-    "main.51249b12.js.map": "/mediacardfluence2/static/js/main.51249b12.js.map",
+    "main.7f753ac5.js.map": "/mediacardfluence2/static/js/main.7f753ac5.js.map",
     "453.cf676dcc.chunk.js.map": "/mediacardfluence2/static/js/453.cf676dcc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0bfacbc.css",
-    "static/js/main.51249b12.js"
+    "static/js/main.7f753ac5.js"
   ]
 }
