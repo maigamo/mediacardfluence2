@@ -4,7 +4,7 @@
 
 MediaCardfluence2 是一款专为自媒体创作者、KOL 和内容营销人员设计的数据可视化工具，可以将您在微信、小红书、B站、抖音等多个平台的粉丝数据整合为一张精美专业的数据展示卡片，帮助您在品牌合作中更好地展示自己的社交媒体影响力。
 
-![MediaCardfluence 预览图](https://github.com/maigamo/mediacardfluence2/blob/main/docs/acquiesce.png)
+![MediaCardfluence 预览图](https://github.com/maigamo/mediacardfluence2/blob/main/docs/blank.png)
 
 [![GitHub Stars](https://img.shields.io/github/stars/maigamomediacardfluence2?style=social)](https://github.com/maigamo/mediacardfluence2)
 [![GitHub Forks](https://img.shields.io/github/forks/maigamo/mediacardfluence2?style=social)](https://github.com/maigamo/mediacardfluence2/fork)
