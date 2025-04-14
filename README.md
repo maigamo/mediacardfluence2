@@ -1,5 +1,4 @@
-# mediacardfluence2
-# 自媒体数据卡片生成工具 | 多平台粉丝数据展示 | Social Media Metrics Card Generator
+# mediacardfluence2 | 自媒体数据卡片生成工具 | 多平台粉丝数据展示 | Social Media Metrics Card Generator
 
 > 📊 轻松创建精美的社交媒体数据展示卡片 | 跨平台粉丝数据整合 | 自定义样式 | 一键导出 | 自媒体创作者必备工具
 
