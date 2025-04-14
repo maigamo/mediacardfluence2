@@ -11,8 +11,8 @@ MediaCardfluence 是一款专为自媒体创作者、KOL 和内容营销人员�
 
 ![MediaCardfluence 预览图](预览图片URL)
 
-[![GitHub Stars](https://img.shields.io/github/stars/maigamomediacardfluence?style=social)](https://github.com/maigamo/mediacardfluence)
-[![GitHub Forks](https://img.shields.io/github/forks/maigamo/mediacardfluence?style=social)](https://github.com/maigamo/mediacardfluence/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/maigamomediacardfluence2?style=social)](https://github.com/maigamo/mediacardfluence2)
+[![GitHub Forks](https://img.shields.io/github/forks/maigamo/mediacardfluence2?style=social)](https://github.com/maigamo/mediacardfluence2/fork)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue)](https://www.typescriptlang.org/)
 [![Material UI](https://img.shields.io/badge/Material_UI-5.17-blue)](https://mui.com/)
