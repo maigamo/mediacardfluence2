@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.8c13c86d.css",
-    "main.js": "./static/js/main.613e6bf5.js",
+    "main.js": "./static/js/main.92188b67.js",
     "static/js/206.73c117f4.chunk.js": "./static/js/206.73c117f4.chunk.js",
     "mui-vendor~ba3c9f4a.js": "./static/js/mui-vendor~ba3c9f4a.5bee603d.js",
     "static/js/709.5160678a.js": "./static/js/709.5160678a.js",
@@ -33,6 +33,6 @@
     "static/js/662.10e79505.js",
     "static/js/709.5160678a.js",
     "static/css/main.8c13c86d.css",
-    "static/js/main.613e6bf5.js"
+    "static/js/main.92188b67.js"
   ]
 }
